@@ -99,7 +99,7 @@ Depois de criar o site, configure a API Java para permitir no CORS a origem exat
 Links do projeto:
 
 - Repositório no GitHub: https://github.com/Ja1Gizz/MOVI-FACIL---SPRINT-4
-- Site na Vercel: 
+- Site na Vercel: https://movi-facil-sprint-4.vercel.app
 - Vídeo no YouTube: https://youtu.be/YMRF8ZBmy1w
 - API: https://movifacil-api.onrender.com
 
